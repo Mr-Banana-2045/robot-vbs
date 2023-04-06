@@ -2,4 +2,4 @@
 
 ![Screenshot (67)](https://user-images.githubusercontent.com/109140672/230370479-efa8f9b7-adcb-47ff-a36d-68c2ce52695f.png)
 
-* type > help
+* Type **help** to display allowed entries
